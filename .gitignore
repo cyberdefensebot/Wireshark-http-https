@@ -1,0 +1,15 @@
+# Packet captures can contain sensitive information
+*.pcap
+*.pcapng
+
+# Temporary and editor files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python cache (if scripts are added later)
+__pycache__/
+*.py[cod]
